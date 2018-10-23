@@ -41,7 +41,7 @@ project/app/build.gradle中添加：
         pieChartView.addItemType(new PieChartView.ItemType("联想", 2, 0xff6B8E23));
         pieChartView.addItemType(new PieChartView.ItemType("其他品牌", 20, 0xff999999));
 
- ![image](https://github.com/luweibin3118/PieChartView/blob/master/app/Screenshot_20180112-211844.png)
+ ![image](https://github.com/WeiLanXingchen/PieChartView-master/blob/master/app/Screenshot_20180112-211844.png)
   
  4. 设置以下方法可平移饼图：
  
@@ -49,7 +49,7 @@ project/app/build.gradle中添加：
 
     效果如图：
     
- ![image](https://github.com/luweibin3118/PieChartView/blob/master/app/Screenshot_20180112-212035.png)
+ ![image](https://github.com/WeiLanXingchen/PieChartView-master/blob/master/app/Screenshot_20180112-212035.png)
  
  
  5. 设置以下方法可以实现环形图： 
@@ -57,7 +57,7 @@ project/app/build.gradle中添加：
         pieChartView.setCell(5);            //设置环形图的间距
         pieChartView.setInnerRadius(0.4f);  //设置环形图内环半径比例 0 - 1.0f
    
- ![image](https://github.com/luweibin3118/PieChartView/blob/master/app/Screenshot_20180112-211903.png)
+ ![image](https://github.com/WeiLanXingchen/PieChartView-master/blob/master/app/Screenshot_20180112-211903.png)
  
  6. 其他方法：
  
